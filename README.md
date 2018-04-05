@@ -14,7 +14,7 @@ Slightly modified version of react-slingshot, off the bat with no demo app and d
     <h1>golden</h1>
   </li>
 </ul>
-<h5>if that doesn't work</h5>
+<h4>if that doesn't work</h4>
 <p>
 Follow this link to the original <a href="https://github.com/coryhouse/react-slingshot">repo</a>
 for react slingshot
